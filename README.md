@@ -1,9 +1,27 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Seonvin%20Cho&fontSize=60&fontAlign=70)
 
-## About me
-Hi there!! 👍
+# 👋 Hi, I'm Seonvin!
 
-Good day! I am Seonvin Cho.
+I'm passionate about AI and optimization, especially **Reinforcement Learning (RL)**, **Federated Learning (FL)**.  
+I have experience in numerical methods like **FDTD** and **Inverse Design**.  
+I’m also familiar with **C/C++** for performance-critical tasks and use **PyTorch** for deep learning projects.
+
+## 🚀 What I Do:
+- 📊 **Reinforcement Learning (RL):** Developing intelligent agents and optimization models
+- 🌐 **Federated Learning (FL):** Exploring decentralized machine learning techniques
+- ⚡ **Numerical Simulations:** FDTD algorithms & Inverse Design applications
+- 💻 **Programming:** C, C++, Python (PyTorch)
+
+## 📂 Featured Projects:
+- 🔗 [RL-Based Optimization Models](https://github.com/seonvin/RL-Optimization)
+- 🔗 [Federated Learning Frameworks](https://github.com/seonvin/FL-Frameworks)
+- 🔗 [FDTD Simulation Code](https://github.com/seonvin/FDTD-Simulations)
+
+## 📫 How to Reach Me:
+- ✉️ Email: seonvin@example.com
+- 🔗 LinkedIn: [linkedin.com/in/seonvin](https://www.linkedin.com/in/%EC%84%A0%EB%B9%88-%EC%A1%B0-0b7b59219/)
+
+Always eager to learn new things and collaborate on exciting projects! 🚀
 
 If you want to contact me, please leave me a message!
 <p>
