@@ -21,6 +21,7 @@ I’m also familiar with **C/C++** for performance-critical tasks and use **PyTo
 - ✉️ Email: seonbin0319@hanyang.ac.kr
 - 🔗 LinkedIn: [linkedin.com/in/seonvin](https://www.linkedin.com/in/%EC%84%A0%EB%B9%88-%EC%A1%B0-0b7b59219/)
 - 🔗 Website: [sites.google.com/view/seonvincho](https://sites.google.com/view/seonvincho/home?authuser=0)
+
 Always eager to learn new things and collaborate on exciting projects! 🚀
 
 If you want to contact me, please leave me a message!
