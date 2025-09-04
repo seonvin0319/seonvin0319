@@ -15,7 +15,7 @@ I’m also familiar with **C/C++** for performance-critical tasks and use **PyTo
 ## 📂 Featured Projects:
 - 🔗 [RL-Based Optimization Models](https://github.com/seonvin/RL-Optimization)
 - 🔗 [Federated Learning Frameworks](https://github.com/seonvin/FL-Frameworks)
-- 🔗 [FDTD Simulation Code](https://github.com/seonvin/FDTD-Simulations)
+- 🔗 [GPU-based dispersive FDTD with state-space formulation]([https://github.com/seonvin/FDTD-Simulations](https://github.com/seonvin0319/gpu_dispersive_fdtd_ss.git))
 
 ## 📫 How to Reach Me:
 - ✉️ Email: seonbin0319@hanyang.ac.kr
