@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Seonvin!
 
-I'm passionate about AI and optimization, especially **Reinforcement Learning (RL)**, **Federated Learning (FL)**.  
+I'm passionate about AI and optimization, especially **Reinforcement Learning (RL)**, **Generative AI**.  
 I have experience in numerical methods like **FDTD** and **Inverse Design**.  
 I’m also familiar with **C/C++** for performance-critical tasks and use **PyTorch** for deep learning projects.
 
