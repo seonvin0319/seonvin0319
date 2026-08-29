@@ -7,7 +7,7 @@ Research interests:
 - Sequential Decision Making
 - Generative Models
 
-## Recent Work
+## Research
 
 **PathBridger: Subgoal Bridges for Offline Goal-Conditioned Reinforcement Learning**  
 Soohyun Choi*, Seonvin Cho*, Songnam Hong  
@@ -15,11 +15,9 @@ Soohyun Choi*, Seonvin Cho*, Songnam Hong
 
 [PathBridger](https://github.com/SChoish/PathBridger)
 
-## Ongoing Research
-
 **Policy Optimization in Offline Reinforcement Learning**
 
-I am working on multi-step proximal policy improvement and adaptive policy optimization, and on follow-up directions for PathBridger.
+I have been working on multi-step proximal policy improvement and adaptive policy optimization, including follow-ups to PathBridger.
 
 [POGO](https://github.com/seonvin0319/POGO) ·
 [MPI](https://github.com/seonvin0319/MPI)
