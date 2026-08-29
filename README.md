@@ -26,6 +26,8 @@ I study **offline reinforcement learning**: how a policy should move toward a di
 
 ## Research
 
+These projects are joint work with [Soohyun Choi](https://github.com/SChoish).
+
 <table>
 <tr>
 <td width="50%" valign="top">
