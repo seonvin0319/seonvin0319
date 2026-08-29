@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sites.google.com/view/seonvincho/home"><img src="https://img.shields.io/badge/Website-C4B5FD?style=for-the-badge&logo=googlechrome&logoColor=4A3F6B" alt="Website" /></a>
+  <a href="https://seonvin0319.github.io/index.html"><img src="https://img.shields.io/badge/Website-C4B5FD?style=for-the-badge&logo=googlechrome&logoColor=4A3F6B" alt="Website" /></a>
   <a href="assets/Seonvin_Cho_CV.pdf"><img src="https://img.shields.io/badge/CV-D8B4FE?style=for-the-badge&logo=adobeacrobatreader&logoColor=4A3F6B" alt="CV" /></a>
   <a href="mailto:seonbin0319@hanyang.ac.kr"><img src="https://img.shields.io/badge/Email-DDD6FE?style=for-the-badge&logo=gmail&logoColor=4A3F6B" alt="Email" /></a>
   <a href="https://github.com/seonvin0319"><img src="https://img.shields.io/badge/GitHub-B8A4D8?style=for-the-badge&logo=github&logoColor=4A3F6B" alt="GitHub" /></a>
