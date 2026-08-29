@@ -13,7 +13,7 @@ My research interests lie in **reinforcement learning** and **sequential decisio
 ### 🔬 Recent Research
 
 **PathBridger: Subgoal Bridges for Offline Goal-Conditioned Reinforcement Learning**  
-*Soohyun Choi\*, Seonvin Cho\*, Song-Nam Hong* — Under Review  
+*Soohyun Choi\*, Seonvin Cho\*, Songnam Hong* — Under Review  
 \* Equal contribution
 
 [Code](https://github.com/SChoish/PathBridger)
