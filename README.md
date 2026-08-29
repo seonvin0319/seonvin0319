@@ -1,28 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Seonvin%20Cho&fontSize=60&fontAlign=70)
+# Seonvin Cho
 
-# 👋 Hi, I'm Seonvin!
+Integrated M.S./Ph.D. Student in Electrical Engineering at Hanyang University.
 
-I am an Integrated M.S./Ph.D. student in Electrical Engineering at **Hanyang University**, advised by **Prof. Song-Nam Hong**.
+Research interests:
+- Reinforcement Learning
+- Sequential Decision Making
+- Generative Models
 
-My research interests lie in **reinforcement learning** and **sequential decision making**, particularly:
-
-- Generative Models for Decision Making
-- Offline & Offline-to-Online Reinforcement Learning
-- Long-Horizon & Robot Learning
-
-### 🔬 Recent Research
+## Recent Work
 
 **PathBridger: Subgoal Bridges for Offline Goal-Conditioned Reinforcement Learning**  
-*Soohyun Choi\*, Seonvin Cho\*, Songnam Hong* — Under Review  
-\* Equal contribution
+Soohyun Choi*, Seonvin Cho*, Song-Nam Hong  
+*Equal contribution
 
 [Code](https://github.com/SChoish/PathBridger)
 
-I have also explored **offline policy optimization** through proximal and gradient-flow perspectives, and studied **generative approaches to sequential decision making**, including sequence, diffusion, energy-based, and flow-based models.
+## Previous Research
 
-## 📫 How to Reach Me:
-- 🌐 [Website](https://sites.google.com/view/seonvincho/home)
-- ✉️ [Email](mailto:seonbin0319@hanyang.ac.kr)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/%EC%84%A0%EB%B9%88-%EC%A1%B0-0b7b59219/)
+**Policy Optimization in Offline Reinforcement Learning**
 
-Always eager to learn new things and collaborate on exciting projects! 🚀
+I have explored policy optimization in offline reinforcement learning through
+proximal and gradient-flow perspectives, including multi-step policy refinement
+under different policy geometries and imperfect critic estimates.
+
+[POGO](https://github.com/seonvin0319/POGO) ·
+[MPI](https://github.com/seonvin0319/MPI)
+
+## Links
+
+[Website](https://sites.google.com/view/seonvincho/home) ·
+[Email](mailto:seonbin0319@hanyang.ac.kr)
