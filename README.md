@@ -13,7 +13,7 @@ Research interests:
 Soohyun Choi*, Seonvin Cho*, Song-Nam Hong  
 *Equal contribution
 
-[Code](https://github.com/SChoish/PathBridger)
+[PathBridger](https://github.com/SChoish/PathBridger)
 
 ## Previous Research
 
