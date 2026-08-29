@@ -24,7 +24,7 @@
 
 I study **offline reinforcement learning** and **sequential decision making**: how a policy should reach a distant goal when it can only learn from data that has already been collected. I am especially interested in using **generative models** to propose where to go next, then turning that proposal into a short, executable stretch of behavior.
 
-That question shows up in two ways. One is hierarchical goal-conditioned control — choosing a subgoal, drawing an explicit bridge through state space, and decoding it into actions. The other is how to improve an offline policy in a few proximal steps: how far to move, how deep to refine, and how to stay close to behavior-supported data.
+I aim to develop intelligent agents that can learn, reason, and make decisions effectively in complex environments. Concretely, I want agents that can plan over long horizons from logged data, choose the next subgoal rather than only the next action, and keep those decisions executable when the critic or the behavior data is imperfect.
 
 ## Research
 
