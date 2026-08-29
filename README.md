@@ -22,9 +22,9 @@
 
 ---
 
-I aim to develop intelligent agents that can learn, reason, and make decisions effectively in complex environments.
+I aim to develop intelligent agents that can learn, reason, and make effective decisions in complex environments.
 
-I study **offline reinforcement learning** and **sequential decision making**: how a policy should reach a distant goal when it can only learn from data that has already been collected. I am especially interested in **generative models** in RL for dynamics, possible futures, skills, or the policy itself.
+I study **offline reinforcement learning** and **sequential decision making**, with a particular interest in how agents can make reliable decisions and pursue long-horizon goals using only previously collected data. I am especially interested in using **generative modeling** as a tool for reinforcement learning—whether to model dynamics and future trajectories, discover useful skills, or construct expressive policies and learning algorithms.
 
 ## Research
 
