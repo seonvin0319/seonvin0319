@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:C4B5FD,100:EDE4F5&height=168&text=Seonvin%20Cho&fontAlignY=44&fontSize=46&fontColor=4A3F6B&desc=Electrical%20Engineering%20%C2%B7%20Hanyang%20University&descAlignY=70&descSize=16" alt="Seonvin Cho" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:C4B5FD,100:EDE4F5&height=168&text=Seonvin%20Cho&fontAlignY=44&fontSize=46&fontColor=4A3F6B&desc=Reinforcement%20Learning%20%C2%B7%20Sequential%20Decision%20Making%20%C2%B7%20Generative%20Models&descAlignY=70&descSize=16" alt="Seonvin Cho" />
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
   <a href="https://www.linkedin.com/in/%EC%84%A0%EB%B9%88-%EC%A1%B0-0b7b59219/"><img src="https://img.shields.io/badge/LinkedIn-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=4A3F6B" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-C4B5FD?style=flat-square&color=C4B5FD" alt="Reinforcement Learning" />
   <img src="https://img.shields.io/badge/Sequential%20Decision%20Making-D8B4FE?style=flat-square" alt="Sequential Decision Making" />
   <img src="https://img.shields.io/badge/Generative%20Models-DDD6FE?style=flat-square" alt="Generative Models" />
-</p>
+</p> -->
 
 ---
 
