@@ -1,23 +1,16 @@
-# Seonvin Cho
+# Hi, I'm Seonvin Cho
 
-Integrated M.S./Ph.D. Student in Electrical Engineering at Hanyang University.
+I'm an Integrated M.S./Ph.D. student in Electrical Engineering at Hanyang University.
 
-Research interests:
-- Reinforcement Learning
-- Sequential Decision Making
-- Generative Models
+I'm excited to work on reinforcement learning, sequential decision making, and generative models.
 
 ## Research
 
-**PathBridger**
-
-I have been interested in offline goal-conditioned reinforcement learning, especially in connecting subgoal selection to short-horizon execution.
+I've been interested in offline goal-conditioned reinforcement learning, especially in connecting subgoal selection to short-horizon execution.
 
 [PathBridger](https://github.com/SChoish/PathBridger)
 
-**Policy Optimization**
-
-I have been working on multi-step proximal policy improvement and adaptive policy optimization.
+I've also been working on multi-step proximal policy improvement and adaptive policy optimization.
 
 [POGO](https://github.com/seonvin0319/POGO) ·
 [MPI](https://github.com/seonvin0319/MPI)
