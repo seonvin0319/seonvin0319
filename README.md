@@ -16,6 +16,8 @@ My research interests lie in **reinforcement learning** and **sequential decisio
 *Soohyun Choi\*, Seonvin Cho\*, Song-Nam Hong* — Under Review  
 \* Equal contribution
 
+[Code](https://github.com/SChoish/PathBridger)
+
 I have also explored **offline policy optimization** through proximal and gradient-flow perspectives, and studied **generative approaches to sequential decision making**, including sequence, diffusion, energy-based, and flow-based models.
 
 ## 📫 How to Reach Me:
