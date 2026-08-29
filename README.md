@@ -1,51 +1,43 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:3D6B8C&height=200&section=header&text=Seonvin%20Cho&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Reinforcement%20Learning%20%7C%20Sequential%20Decision%20Making%20%7C%20Generative%20Models&descAlignY=58&descSize=14)
+<img src="https://readme-typing-svg.demolab.com?font=Source+Serif+4&weight=600&size=28&duration=3500&pause=1200&color=5C3D2E&width=620&lines=offline+data.+long+horizons.;where+should+the+policy+go+first%3F" alt="typing" />
 
-<div align="center">
+# Seonvin Cho
 
-### Hi, I'm Seonvin
+Integrated M.S./Ph.D. student in Electrical Engineering at Hanyang University, working with Prof. Songnam Hong.
 
-Integrated M.S./Ph.D. student in Electrical Engineering at Hanyang University  
-Advisor: Prof. Songnam Hong
+I think about sequential decisions when the data is already collected and the goal is still far away. Lately that has meant two things: building a short path in state space before acting, and improving a policy in a few careful proximal steps instead of one jump.
 
-[![Website](https://img.shields.io/badge/Website-3D6B8C?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/seonvincho/home)
-[![CV](https://img.shields.io/badge/CV-1F3A5F?style=flat-square&logo=readme&logoColor=white)](assets/Seonvin_Cho_CV.pdf)
-[![Email](https://img.shields.io/badge/Email-C43D4D?style=flat-square&logo=gmail&logoColor=white)](mailto:seonbin0319@hanyang.ac.kr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%A0%EB%B9%88-%EC%A1%B0-0b7b59219/)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-</div>
+**PathBridger**  
+Offline goal-conditioned RL, from a subgoal to a short executable stretch.
 
-## Research
+[code](https://github.com/SChoish/PathBridger)
 
-My research interests lie in **reinforcement learning**, **sequential decision making**, and **generative models**. I have been working on offline goal-conditioned RL, especially connecting subgoal selection to short-horizon execution, and on multi-step proximal policy improvement and adaptive policy optimization.
+</td>
+<td width="33%" valign="top">
 
-### Current directions
+**MPI**  
+Multi-step proximal policy improvement, re-centered at each step.
 
-- **PathBridger**  
-  Generating state-space bridges that connect subgoal selection to short-horizon execution in offline goal-conditioned RL.
+[code](https://github.com/seonvin0319/MPI)
 
-- **Multi-step Policy Improvement**  
-  Re-centered multi-step proximal refinement for offline policy improvement.
+</td>
+<td width="33%" valign="top">
 
-- **Adaptive Policy Optimization**  
-  Adaptive refinement of step size and depth between behavior-supported and multi-step policies.
+**POGO**  
+Adaptive policy optimization — how large a step, and how deep.
 
-## Selected projects
+[code](https://github.com/seonvin0319/POGO)
 
-| Project | Focus |
-| --- | --- |
-| [**PathBridger**](https://github.com/SChoish/PathBridger) | Subgoal bridges for offline goal-conditioned RL |
-| [**MPI**](https://github.com/seonvin0319/MPI) | Multi-step proximal policy improvement |
-| [**POGO**](https://github.com/seonvin0319/POGO) | Adaptive / gradient-flow policy optimization |
+</td>
+</tr>
+</table>
 
-## Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-<div align="center">
-  <sub>Reinforcement learning for sequential decision making</sub>
-</div>
+<p>
+  <a href="https://sites.google.com/view/seonvincho/home"><img src="https://img.shields.io/badge/site-5C3D2E?style=flat-square" alt="Website" /></a>
+  <a href="assets/Seonvin_Cho_CV.pdf"><img src="https://img.shields.io/badge/cv-8B5E3C?style=flat-square" alt="CV" /></a>
+  <a href="mailto:seonbin0319@hanyang.ac.kr"><img src="https://img.shields.io/badge/mail-A67C52?style=flat-square" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/%EC%84%A0%EB%B9%88-%EC%A1%B0-0b7b59219/"><img src="https://img.shields.io/badge/linkedin-6F4E37?style=flat-square" alt="LinkedIn" /></a>
+</p>
