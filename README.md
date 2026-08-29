@@ -12,11 +12,11 @@ My research interests lie in **reinforcement learning** and **sequential decisio
 
 ## 🔬 Research
 
-I've been interested in offline goal-conditioned reinforcement learning, especially in connecting subgoal selection to short-horizon execution.
+I've been interested in **offline goal-conditioned reinforcement learning**, especially in connecting subgoal selection to short-horizon execution.
 
 [PathBridger](https://github.com/SChoish/PathBridger)
 
-I've also been working on multi-step proximal policy improvement and adaptive policy optimization.
+I've also been working on **multi-step proximal policy improvement** and **adaptive policy optimization**.
 
 [POGO](https://github.com/seonvin0319/POGO) ·
 [MPI](https://github.com/seonvin0319/MPI)
