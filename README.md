@@ -24,6 +24,7 @@ I've also been working on **multi-step proximal policy improvement** and **adapt
 ## 📫 How to Reach Me
 
 - 🌐 [Website](https://sites.google.com/view/seonvincho/home)
+- 📄 [CV](Seonvin_Cho_CV.pdf)
 - ✉️ [Email](mailto:seonbin0319@hanyang.ac.kr)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/%EC%84%A0%EB%B9%88-%EC%A1%B0-0b7b59219/)
 
