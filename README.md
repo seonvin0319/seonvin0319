@@ -15,14 +15,7 @@ Soohyun Choi*, Seonvin Cho*, Songnam Hong
 
 [PathBridger](https://github.com/SChoish/PathBridger)
 
-## Previous Research
-
-**Federated Learning under Noisy Labels**
-
-I looked at client-local loss-value distributions to identify unreliable samples under label noise.
-
-[TriMix](https://github.com/seonvin0319/TriMix) ·
-[Technical report](https://github.com/seonvin0319/TriMix/blob/main/Analyzing_Loss_Value_Distribution_from_Learning_Label_Noise_Data_in_the_Federated_Learning_Environment.pdf)
+## Ongoing Research
 
 **Policy Optimization in Offline Reinforcement Learning**
 
