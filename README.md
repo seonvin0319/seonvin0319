@@ -9,15 +9,15 @@ Research interests:
 
 ## Research
 
-**PathBridger: Subgoal Bridges for Offline Goal-Conditioned Reinforcement Learning**  
-Soohyun Choi*, Seonvin Cho*, Songnam Hong  
-*Equal contribution · Under Review
+**PathBridger**
+
+I have been interested in offline goal-conditioned reinforcement learning, especially in connecting subgoal selection to short-horizon execution.
 
 [PathBridger](https://github.com/SChoish/PathBridger)
 
-**Policy Optimization in Offline Reinforcement Learning**
+**Policy Optimization**
 
-I have been working on multi-step proximal policy improvement and adaptive policy optimization, including follow-ups to PathBridger.
+I have been working on multi-step proximal policy improvement and adaptive policy optimization.
 
 [POGO](https://github.com/seonvin0319/POGO) ·
 [MPI](https://github.com/seonvin0319/MPI)
