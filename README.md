@@ -40,6 +40,7 @@ These projects are joint work with [Soohyun Choi](https://github.com/SChoish).
 Hierarchical offline goal-conditioned RL. It proposes an endpoint, draws an explicit bridge through state space, and decodes that short stretch into actions.
 
 <a href="https://github.com/SChoish/PathBridger"><img src="https://img.shields.io/badge/Code-C4B5FD?style=for-the-badge&logo=github&logoColor=4A3F6B" alt="PathBridger code" /></a>
+<a href="https://arxiv.org/pdf/2608.29061"><img src="https://img.shields.io/badge/arXiv-D8B4FE?style=for-the-badge&logo=arxiv&logoColor=4A3F6B" alt="PathBridger arXiv" /></a>
 
 </td>
 <td width="50%" valign="top">
