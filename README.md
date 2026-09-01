@@ -62,7 +62,7 @@ Next I want to take PathBridger further: offline-to-online learning, action-free
 
 ## Before this
 
-B.S. in Electrical Engineering, Hanyang University, *Summa Cum Laude*, Early Graduation.
+B.S. in Electronic Engineering, Hanyang University, *Summa Cum Laude*, Early Graduation.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE4F5,100:C4B5FD&height=70&section=footer" alt="" />
