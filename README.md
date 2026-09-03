@@ -45,20 +45,18 @@ Hierarchical offline goal-conditioned RL. It proposes an endpoint, draws an expl
 </td>
 <td width="50%" valign="top">
 
-#### Policy optimization
-`Ongoing`
+#### MPI
+`2026` `Preprint`
 
-**MPI**: re-centered multi-step proximal refinement, instead of a single update.  
-**POGO**: adaptive step size, depth, and interpolation between a behavior-supported policy and a multi-step teacher.
+Multi-step proximal policy improvement. It treats a behavior-anchored actor update as one proximal step, then composes re-centered refinements on a policy manifold.
 
-<a href="https://github.com/SChoish/MPI"><img src="https://img.shields.io/badge/MPI-D8B4FE?style=for-the-badge&logo=github&logoColor=4A3F6B" alt="MPI code" /></a>
-<a href="https://github.com/seonvin0319/POGO"><img src="https://img.shields.io/badge/POGO-B8A4D8?style=for-the-badge&logo=github&logoColor=4A3F6B" alt="POGO code" /></a>
+<a href="https://github.com/SChoish/MPI"><img src="https://img.shields.io/badge/Code-C4B5FD?style=for-the-badge&logo=github&logoColor=4A3F6B" alt="MPI code" /></a>
 
 </td>
 </tr>
 </table>
 
-Next I want to take PathBridger further: offline-to-online learning, action-free decision making, and longer-horizon generative control.
+**Ongoing.** **MART** studies a fixed-budget actor-refinement path that separates critic-facing exposure from deployment reach. **AMO** learns a proximal horizon with coupled conservative and full-horizon policies. I am also extending PathBridger to offline-to-online learning, action-free settings, and longer-horizon control.
 
 ## Before this
 
