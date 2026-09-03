@@ -56,7 +56,7 @@ Multi-step proximal policy improvement. It treats a behavior-anchored actor upda
 </tr>
 </table>
 
-**Ongoing.** **MART** studies a fixed-budget actor-refinement path that separates critic-facing exposure from deployment reach. **AMO** learns a proximal horizon with coupled conservative and full-horizon policies. I am also extending PathBridger to offline-to-online learning, action-free settings, and longer-horizon control.
+**Ongoing.** **MART** studies a fixed-budget actor-refinement path that separates critic-facing exposure from deployment reach. **AMO** learns a proximal horizon with coupled conservative and full-horizon policies. **Extensions of PathBridger** explores offline-to-online learning, action-free settings, and longer-horizon goal-conditioned control.
 
 ## Before this
 
