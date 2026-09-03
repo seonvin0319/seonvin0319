@@ -51,7 +51,7 @@ Hierarchical offline goal-conditioned RL. It proposes an endpoint, draws an expl
 **MPI**: re-centered multi-step proximal refinement, instead of a single update.  
 **POGO**: adaptive step size, depth, and interpolation between a behavior-supported policy and a multi-step teacher.
 
-<a href="https://github.com/seonvin0319/MPI"><img src="https://img.shields.io/badge/MPI-D8B4FE?style=for-the-badge&logo=github&logoColor=4A3F6B" alt="MPI code" /></a>
+<a href="https://github.com/SChoish/MPI"><img src="https://img.shields.io/badge/MPI-D8B4FE?style=for-the-badge&logo=github&logoColor=4A3F6B" alt="MPI code" /></a>
 <a href="https://github.com/seonvin0319/POGO"><img src="https://img.shields.io/badge/POGO-B8A4D8?style=for-the-badge&logo=github&logoColor=4A3F6B" alt="POGO code" /></a>
 
 </td>
