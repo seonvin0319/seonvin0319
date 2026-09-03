@@ -35,7 +35,7 @@ These projects are joint work with [Soohyun Choi](https://github.com/SChoish).
 <td width="50%" valign="top">
 
 #### PathBridger
-`2026` `Under Review`
+`2026` `Preprint`
 
 Hierarchical offline goal-conditioned RL. It proposes an endpoint, draws an explicit bridge through state space, and decodes that short stretch into actions.
 
