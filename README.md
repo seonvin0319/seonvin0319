@@ -51,6 +51,7 @@ Hierarchical offline goal-conditioned RL. It proposes an endpoint, draws an expl
 Multi-step proximal policy improvement. It treats a behavior-anchored actor update as one proximal step, then composes re-centered refinements on a policy manifold.
 
 <a href="https://github.com/SChoish/MPI"><img src="https://img.shields.io/badge/Code-C4B5FD?style=for-the-badge&logo=github&logoColor=4A3F6B" alt="MPI code" /></a>
+<a href="https://arxiv.org/pdf/2609.03842"><img src="https://img.shields.io/badge/arXiv-D8B4FE?style=for-the-badge&logo=arxiv&logoColor=4A3F6B" alt="MPI arXiv" /></a>
 
 </td>
 </tr>
