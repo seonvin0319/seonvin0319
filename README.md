@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://seonvin0319.github.io/index.html"><img src="https://img.shields.io/badge/Website-C4B5FD?style=for-the-badge&logo=googlechrome&logoColor=4A3F6B" alt="Website" /></a>
-  <a href="https://seonvin0319.github.io/assets/Seonvin_Cho_CV.pdf"><img src="https://img.shields.io/badge/CV-D8B4FE?style=for-the-badge&logo=adobeacrobatreader&logoColor=4A3F6B" alt="CV" /></a>
+  <a href="https://seonvin0319.github.io/assets/Seonvin_Cho_CV.pdf?v=20261031"><img src="https://img.shields.io/badge/CV-D8B4FE?style=for-the-badge&logo=adobeacrobatreader&logoColor=4A3F6B" alt="CV" /></a>
   <a href="mailto:seonbin0319@hanyang.ac.kr"><img src="https://img.shields.io/badge/Email-DDD6FE?style=for-the-badge&logo=gmail&logoColor=4A3F6B" alt="Email" /></a>
   <a href="https://github.com/seonvin0319"><img src="https://img.shields.io/badge/GitHub-B8A4D8?style=for-the-badge&logo=github&logoColor=4A3F6B" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/%EC%84%A0%EB%B9%88-%EC%A1%B0-0b7b59219/"><img src="https://img.shields.io/badge/LinkedIn-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=4A3F6B" alt="LinkedIn" /></a>
@@ -57,7 +57,12 @@ Multi-step proximal policy improvement. It treats a behavior-anchored actor upda
 </tr>
 </table>
 
-**Ongoing.** **MART** studies a fixed-budget actor-refinement path that separates critic-facing exposure from deployment reach. **AMO** learns a proximal horizon with coupled conservative and full-horizon policies. **Extensions of PathBridger** explores offline-to-online learning, action-free settings, and longer-horizon goal-conditioned control.
+### Ongoing research: Extensions of PathBridger
+
+- **Skill Learning and Composition:** Investigating how to learn reusable skills from offline trajectories and compose them for long-horizon goal-conditioned tasks.
+- **Latent-Space Bridge Planning:** Exploring learned representations and geometrically structured latent spaces for goal-conditioned bridge generation and short-horizon execution.
+
+**Other directions.** **MART** studies a fixed-budget actor-refinement path that separates critic-facing exposure from deployment reach. **AMO** learns a proximal horizon with coupled conservative and full-horizon policies.
 
 ## Before this
 
